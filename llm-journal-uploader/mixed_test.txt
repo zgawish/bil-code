@@ -1,0 +1,15 @@
+HochbergEtAlNature2012,http://dx.doi.org/10.1038/nature11076
+GangulyEtAlNatureNeuro2011,http://dx.doi.org/10.1038/nn.2797
+EthierEtAlNature2012,http://dx.doi.org/10.1038/nature10987
+CunninghamEtAlJNeurophys2011,http://dx.doi.org/10.1152/jn.00503.2010
+ChestekEtAlJNE2011,http://dx.doi.org/10.1088/1741-2560/8/4/045005
+BlankertzEtAlIEEETNSRE2003,http://dx.doi.org/10.1109/TNSRE.2003.814456
+HochbergNEJM2008,http://dx.doi.org/10.1056/NEJMcibr0805122
+HanEtAlNeuron2009,http://dx.doi.org/10.1016/j.neuron.2009.03.011
+BuchenNat2010,http://dx.doi.org/10.1038/465026a
+PohlmeyerEtAlPLoSOne2009,http://dx.doi.org/10.1371/journal.pone.0005924
+Vargas-IrwinEtAlJNeurosci2010,http://dx.doi.org/10.1523/JNEUROSCI.5443-09.2010
+GangulyEtAlJNeurosci2009,http://dx.doi.org/10.1523/JNEUROSCI.2471-09.2009
+GiljaEtAlTBME2011,http://dx.doi.org/10.1109/TBME.2011.2107553
+KimEtAlTNSRE2011,http://dx.doi.org/10.1109/TNSRE.2011.2107750
+GreenKalaskaTrendsNeurosci2011,http://dx.doi.org/10.1016/j.tins.2010.11.003

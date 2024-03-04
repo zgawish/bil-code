@@ -1,0 +1,180 @@
+BlackrockNeurotech2021,Blackrock Neurotech
+NuyujukianMindPong2021,Neuralink Monkey MindPong Deconstructed
+NeuralinkPager2021,Monkey MindPong
+Craver2009,Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience
+DweckMindset2008,Mindset: the new psychology of success
+NAEDiversity2002,The Importance of Diversity in Engineering
+NRCSciEdStand1996,National Science Education Standards
+LewickiNetwork1998,A review of methods for spike sorting: the detection and classification of neural action potentials.
+KoroshetzBTGSRRR2018,Bridging the Translational Gap in Stroke Recovery \& Rehabilitation Research
+MountcastleEtAlAmerJPhys1955,Topographic organization and modality representation in first somatic area of cat's cerebral cortex by method of single unit analysis
+GleesColeJNeurophys1950,Recovery of skilled motor functions after small repeated lesions of motor cortex in macaque
+MountcastleEtAlJNeurophys1975,Posterior parietal association cortex of the monkey: command functions for operations within extrapersonal space.
+GrottaStroke2016,Stroke--pathophysiology, diagnosis, and management
+ColomboEtAlBrainRes1974,Local changes in multiple unit activity induced by electrochemical means in preoptic and hypothalamic areas in the female rat.
+ChibaWadaNeuroLett1997,The effect of electrolytic lesioning of the midbrain prior to amygdala kindling in rats.
+SherringtonProcRoySoc1893,Further experimental note on the correlation of action of antagonistic muscles
+HorsleySchaferPhilosTrans1888,A record of experiments upon the functions of the cerebral cortex
+FerrierYeoPhilosTrans1884,A record of experiments on the effects of lesions of different regions of the cerebral hemisphere
+FerrierFunctionsBrain1876,The Functions of the Brain
+AnticEtAlMICCAI2015,Spatiotemporal Parsing of Motor Kinematics for Assessing Stroke Recovery
+TothGardinerContempTopLabAnimAci2000,Food and water restriction protocols: physiological and behavioral considerations.
+SacedaSchmidtSacuedaLabAnimal2000,Refining macaque handling and restraint techniques
+SchieberPoliakovJNeurosci1998,Partial inactivation of the primary motor cortex hand area: effects on individuated finger movements.
+KubotaNeuroreport1996,Motor cortical muscimol injection disrupts forelimb movement in freely moving monkeys.
+PostStrokeRehabNINDS2014,Post-Stroke Rehabilitation
+OrganizationDeathFactSheet2012017,The top 10 causes of death in 2015
+EvartsJNeurophys1968,Relation of pyramidal tract activity to force exerted during voluntary movement.
+NudoMillikenJNeurophys1996,Reorganization of movement representations in primary motor cortex following focal ischemic infarcts in adult squirrel monkeys.
+STAIRStroke1999,Recommendations for standards regarding preclinical neuroprotective and restorative drug development.
+GuilloryNormannJNeurosciMethods1999,A 100-channel system for real time detection and storage of extracellular spike waveforms.
+YamadaJInfProc1980,A Historical Study of Typewriters and Typing Methods: from the Position of Planning Japanese Parallels
+FetzBakerJNeurophys1973,Operantly conditioned patterns on precentral unit activity and correlated responses in adjacent cells and contralateral muscles.
+FetzScience1969,Operant conditioning of cortical unit activity.
+FetzBehavioralBrainSciences1992,Are movement parameters recognizably coded in the activity of single neurons
+HumphreyEtAlScience1970,Predicting measures of motor performance from multiple cortical spike trains.
+BodineAssistiveTechnologyPhysicalMedicine2010,Assistive Technology
+ReeveFoundation2009,One Degree of Separation: Paralysis and Spinal Cord Injury in the United States
+KhatibCNRSMTMCR1986,Robot Manipulator Control in Operational Space
+KhatibCMR1993,A Task-Level Framework for Robotics Manipulation
+KhatibEtAlERS2008,A Unified Framework for Whole-body Humanoid Robot Control with Multiple Constraints and Contacts
+KhatibIEEEISIE2009,Human-Friendly Robotics
+ShinEtAlIJRR2010,Design and control of a bio-inspired human-friendly robot
+JarosiewiczEtAlSFN2014,Progress toward a self-calibrating, practical intracortical BCI for people with tetraplegia
+PandarinathNuyujukianEtAlSFN2014,Application of a high performance intracortical brain computer interface for communication in a person with amyotrophic lateral sclerosis
+NuyujukianPandarinathEtAlSFN2014,Design of a high performance intracortical brain computer interface for a person with amyotrophic lateral sclerosis
+NuyujukianEtAlSFN2012,State decoding using hidden Markov models for continuous brain-machine interfaces
+FanEtAlJNE2014,Intention estimation in brain-machine interfaces.
+NuyujukianEtAlASSFN2014,The development of high-performance communication neural prostheses
+GiljaEtAlSFN2013,Design and application of a high performance intracortical brain computer interface for a person with amyotrophic lateral sclerosis
+PandarinathEtAlASSFN2014,High-performance communication using neuronal ensemble recordings from the motor cortex of a person with ALS
+NewmanSproullPICG1979Ra1979,Principles of Interactive Computer Graphics
+WolpawEtAlTRE1998,EEG-Based communication: improved accuracy by response verification
+WolfCh3IndwellingNeuralImplants2008,Thermal Considerations for the Design of an Implanted Cortical Brain-Machine Interface (BMI)
+EliasmithAnderson2003,Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems
+DethierEtAlNIPS2011,A Brain-Machine Interface Operating with a Real-Time Spiking Neural Network Control Algorithm
+SilverEtAlJNeurosci2007,Neurotech for neuroscience: unifying concepts, organizing principles, and emerging tools.
+BoahenSciAm2005,Neuromorphic microchips
+LaubachEtAlNature2000,Cortical ensemble activity increasingly predicts behaviour outcomes during learning of a motor task
+HarrisonIEEE2008,The design of integrated circuits to observe brain activity
+HarrisonEtAlJSSC2007,Low-power integrated circuit for a wireless 100-electrode neural recording system.
+BortonEtAlJNE2013,An implantable wireless neural interface for recording cortical circuit dynamics in moving primates
+ChaseEtAlJNeurophys2012,Behavioral and neural correlates of visuomotor adaptation observed through a brain-computer interface in primary motor cortex
+GiljaEtAlNatureNeuro2012,A high-performance neural prosthesis enabled by control algorithm design
+HopkinsDrDobbs1991,The design and implementation of pie menus
+NewmanSproullPrinciplesInteractiveComputerGraphics1979,Principles of Interactive Computer Graphics
+KaufmanEtAlJNeurophys2010,Roles of monkey premotor neuron classes in movement preparation and execution
+KalaskaAdvExpMedBio2009,From intention to action: motor cortex and the control of reaching movements
+GolubEtAlEMBC2012,{Internal Models Engaged by Brain-computer Interface Control}
+McFarlandEtAlJNE2010,Electroencephalographic (EEG) control of three-dimensional movement
+SchalkEtAlJNE2008,Two-dimensional movement control using electrocorticographic signals in humans
+LiEtAlNeuralComp2011,Adaptive Decoding for Brain-Machine Interfaces Through Bayesian Parameter Updates
+BerensCircStat2009,CircStat: A Matlab Toolbox for Circular Statistics
+KollerFriedmanProbabilisticGraphicalModels2009,Probabilistic Graphical Models
+OrtegaBraunBayesianControl2010,A Bayesian rule for adaptive control based on causal interventions
+PearlCausality2000,Causality
+GageEtAlJNE2005,Naive coadaptive cortical control
+MacKenzieBuxtonSIGCHI1992,Extending Fitts' law to two-dimensional tasks
+DonoghueEtAlSFN2007,Toward standardized assessment of pointing devices for brain-computer interfaces
+ZhaiEtAlACMUIST2000,The Metropolis Keyboard -- An Exploration of Quantitative Techniques for Virtual Keyboard Design
+NuyujukianEtAlCOSYNE2012,A high-performance robust brain-machine interface without retraining
+KrusienskiShihNeurorehabNeuralRepair2011,Control of a Visual Keyboard using an Electrocorticographic Brain-Computer Interface
+FlintEtAlEMBC2012,Control of a Biomimetic Brain Machine Interface with Local Field Potentials: Performance and Stability of a Static Decoder Over 200 Days
+CarmenaIEEESpectrum2012,Becoming Bionic
+BishopEtAlCOSYNE2012,Long-term decoding stability without retraining for intracortical brain computer interface
+GiljaEtAlEMBC2012,A Brain Machine Interface Control Algorithm Designed from a Feedback Control Perspective
+ShpigelmanEtAlNIPS2009,Kernel-arma for hand tracking and brain-machine interfacing during 3D motor control.
+GiljaEtAlSFN2010,A high-performance continuous cortically-controlled prosthesis enabled by feedback control design.
+FosterEtAlNER2011,Combining wireless neural recording and video capture for the analysis of natural gait
+MirandaEtAlTBCAS2010,HermesD: A high-rate long-range wireless transmission system for simultaneous multichannel neural recording applications
+ChestekEtAlTNSRE2009,HermesC: Low-power wireless neural recording system for freely moving primates
+GiljaEtAlCONB2010,Autonomous head-mounted electrophysiology systems for freely-behaving primates
+DiesterEtAlNatNeuro2011,An optogenetic toolbox designed for primates
+NuyujukianEtAlSFN2010,Generalization and robustness of a continuous cortically-controlled prosthesis enabled by feedback control design.
+SadtlerEtAlNER2011,High-performance neural prosthetic control along instructed paths
+SimeralEtAlJNE2011,Neural control of cursor trajectory and click by a human with tetraplegia 1000 days after implant of an intracortical microelectrode array
+EditorialNat2006,Is this the bionic man?
+SanthanamEtAlTBME2007,HermesB: A continuous neural recording system for freely behaving primates
+ChurchlandEtAlJNeurosci2006,Neural Variability in Premotor Cortex Provides a Signature of Motor Preparation
+Touzalin-ChretienEtAlCerebCortex2009,Dominance of Vision over Proprioception on Motor Programming: Evidence from ERP
+ShadmehrMussa-IvaldiJNeurosci1994,{Adaptive representation of dynamics during learning of a motor task}
+HowardEtAlJNeurosciMethods2009,A modular planar robotic manipulandum with end-point torque control
+SoberSabesJNeurosci2003,{Multisensory Integration during Motor Planning}
+VanBeersEtAlJNeurophys1999,Integration of Proprioceptive and Visual Position-Information: An Experimentally Supported Model
+GrazianoPNAS1999,Where is my arm? The relative role of vision and proprioception in the neuronal representation of limb position
+FranklinWolpertJNeurosci2008,Specificity of Reflex Adaptation for Task-Relevant Variability
+TianHeEMBC2003,Can {EMG} machine interface be used to model brain machine interface?
+SantucciEtAlEurJNeurosci2005,Frontal and parietal cortical ensembles predict single-trial muscle activity during reaching movements in primates.
+WolpertGhahramaniNatNeuro2000,Computational Principles of Movement Neuroscience
+GhahramaniWolpertNat1997,Modular Decomposition in Visuoumotor Learning
+WolpertEtAlSci1995,An Internal model for sensorimotor integration
+ShadmehrWiseNeurobioPointReach2005,The Computational Neurobiology of Pointing and Reaching
+LeuthardtEtAlJNE2004,A brain-computer interface using electrocorticographic signals in humans
+KumarEtAlSIGCHI2007,EyePoint: Practical pointing and selection using gaze and keyboard
+JellinekCardSIGCHI1990,Powermice and user performance
+AdlerWinogradUsability1992,Usability: Turning Technologies into Tools
+WinogradFloresCompCog1987,Understanding Computers and Cognition: A new foundation for design
+ZarBiostatAnalysis1999,Biostatistical Analysis
+DouglasEtAlACM1999,Testing pointing device performance and user assessment with the ISO9241, Part 9 standard
+WuEtAlSAB2002,Inferring hand motion from multi-cell recordings in motor cortex using a {K}alman filter
+ChurchlandEtAlNeuron2010,Cortical preparatory activity: Representation of movement or first cog in a dynamical machine?
+DayanAbbottTheoreticalNeuro2001,Theoretical Neuroscience
+ChurchlandShenoyJNeurophys22007,Temporal complexity and heterogeneity of single-neuron activity in premotor and motor cortex
+ChurchlandShenoyJNeurophys22007,Delay of movement caused by disruption of cortical preparatory activity
+MoranSchwartzJNeurophys1999,Motor cortical representation of speed and direction during reaching
+CunninghamEtAlNeuralNet2009,Methods for estimating neural firing rates, and their application to brain-machine interfaces
+CunninghamEtAlJNeurophys2008,Toward Optimal Target Placement for Neural Prosthetic Devices
+TodorovNatNeuro2000,Direct cortical control of muscle activation in voluntary arm movements: a model
+TodorovJordanNatNeuro2002,Optimal Feedback Control as a Theory of Motor Coordination
+HerzfeldBeardsleyJNE2010,Improved multi-unit decoding at the brain-machine interface using population temporal linear filtering
+FraserEtAlJNE2009,Control of a brain-computer interface without spike sorting
+SanthanamEtAlEMBC2004,An extensible infrastructure for fully automated spike sorting during online experiments
+GiljaEtAlCOSYNE2010,High-performance continuous neural control enabled by a feedback control perspective
+WheatstonePTRSL1838,Contributions to the physiology of vision. Part the first. On some remarkable, and hitherto unobserved, phenomena of binocular vision
+MaratheEtAlSFN2009,Are your movement decoding methods appropriate for online control of neuroprosthetics?
+DanzigerEtAlTBME2009,Learning Algorithms for Human-Machine Interfaces
+RadhakrishnanEtAlJNeurophys2008,{Learning a Novel Myoelectric-Controlled Interface Task}
+KalmanJBasicEng1960,A new approach to linear filtering and prediction problems
+KoyamaEtAlJCompNeurosci2009,Comparison of brain-computer interface decoding algorithms in open-loop and closed-loop control
+ChaseEtAlNeuralNet2009,Bias, optimal linear estimation, and the differences between open-loop simulation and closed-loop performance of spiking-based brain-computer interface algorithms
+LiEtAlPLoSOne2009,Unscented Kalman Filter for Brain-machine interfaces
+SanchezEtAlIEEESigProcMag2008,Technology and Signal Processing for Brain-Machine Interfaces: The need for beyond the state-of-the-art tools
+KulkarniPaninskiIEEESigProcMag2008,State-space decoding of goal-directed movements
+MoritzEtAlNat2008,Direct control of paralysed muscles by cortical neurons
+GangulyCarmenaPLoSBio2009,Emergence of a stable cortical map for neuroprosthetic control
+VenturaNeuralComp2008,Spike Train Decoding without Spike Sorting
+WuHatsopoulosIEEEBRB2008,Target-included model and hybrid decoding of stereotyped hand movement in the motor cortex
+MullikenEtAlJNeurosci2008,Decoding trajectories from posterior parietal cortex ensembles
+ArtemiadisEtAlEMBC2007,Decoding Grasp Aperture from Motor-Cortical Population Activity
+SrinivasanEtAlJNeurophys2007,General Purpose Filter Design for Neural Prosthetic Systems
+YuEtAlJNeurophys2007,Mixture of Trajectory Models for Neural Decoding of Goal-Directed Movements
+SrinivasanBrownTBME2007,A State-Space Framework for Movement Control to Dynamic Goals Through Brain-Driven Interfaces
+SrinivasanEtAlNeuralComp2006,A State-Space Analysis for Reconstruction of goal-directed movements using neural signals
+ShakhnarovichEtAlNIPS2006,Nonlinear physically-based models for decoding motor-cortical population activity
+KimEtAlJNE2006,A comparison of optimal MIMO linear and nonlinear models for brain-machine interfaces
+ShohamEtAlTBME2005,Statistical encoding model for a primary motor cortical brain-machine interface
+PaninskiEtAlJNeurosci2004,Superlinear population encoding of dynamic hand trajectory in primary motor cortex
+BrockwellEtAlJNeurophys2004,Recursive Bayesian Decoding of Motor Cortical Signals by Particle Filtering
+KemereEtAlTBME2004,Model-based neural decoding of reaching movements: a maximum likelihood approach
+EdenEtAlNeuralComp2004,Dynamic Analysis of Neural Encoding by Point Process Adaptive Filtering
+GaoEtAlNIPS2002,Probabilistic Inference of Hand Motion from Neural Activity in Motor Cortex
+BrownEtAlJNeurosci1998,A Statistical Paradigm for Neural Spike Train Decoding Applied to Position Prediction from the Ensemble Firing Patterns of Rat Hippocampal Place Cells
+ChestekEtAlJNeurosci2007,Single-neuron stability during repeated reaching in macaque premotor cortex
+WuEtAlNeuralComp2006,Bayesian population decoding of motor cortical activity using a {K}alman filter
+CarmenaEtAlJNeurosci2005,Stable Ensemble Performance with Single-neuron variability during reaching movements in primates
+LebedevEtAlJNeurosci2005,Cortical Ensemble Adaptation to Represent Velocity of an Artificial Actuator Controlled by a Brain-Machine Interface
+MusallamEtAlScience2004,Cognitive control signals for neural prosthetics
+HatsopoulosEtAlJNeurophys2004,Decoding continuous and discrete motor behaviors using motor and premotor cortical ensembles
+WuEtAlTBME2004,Modeling and Decoding Motor Cortical Activity using a Switching {K}alman Filter
+ShenoyEtAlNeuroReport2003,Neural prosthetic control signals from plan activity
+TaylorEtAlScience2002,Direct cortical control of 3D neuroprosthetic devices
+SerruyaEtAlNature2002,Instant neural control of a movement signal
+WessbergEtAlNature2000,Real-time prediction of hand trajectory by ensembles of cortical neurons in primates
+GeorgopoulosEtAlScience1986,Neuronal population coding of movement direction
+RyuShenoyNeurosurgFocus2009,Human Cortical Prostheses: Lost in Translation?
+KimEtAlJNE2008,Neural control of computer cursor velocity by decoding motor cortical spiking activity in humans with tetraplegia
+HochbergEtAlNature2006,Neuronal ensemble control of prosthetic devices by a human with tetraplegia
+VellisteEtAlNature2008,Cortical control of a prosthetic arm for self-feeding
+SchwartzARN2004,Cortical Neural Prosthetics
+LebedevNicolelisTN2006,Brain-machine interfaces: past, present, and future
+AndersonJNeurotrauma2004,Targeting recovery: Priorities of the spinal cord injured population
